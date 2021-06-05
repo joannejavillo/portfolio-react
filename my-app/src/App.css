@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-image: url("https://www.teahub.io/photos/full/95-957055_download-free-wallpaper-angle-line-white-minimalist-minimalistic.jpg");
+  background-size: cover;
+}
+
+nav{
+  padding: auto;
+  flex-wrap: wrap;
+}
+
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  color: purple;
+}
+
+footer{
+  background-color: lightgrey;
+  color: purple;
+  text-align: center;
+  position: static;
+  bottom: 0;
+
+}
