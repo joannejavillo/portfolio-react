@@ -10,6 +10,7 @@ const Footer = () => {
                 <a href="https://www.linkedin.com/in/jo-anne-javillo-b88103206/" target="blank"><i
                     className="fab fa-linkedin"></i></a>
                 <span className="textalign-center">Made by JJavillo - Adelaide SA</span>
+                <p>Email: jo_anne.javillo@outlook.com</p>
                 <p> &copy; 2021</p>
             </div>
         </footer>
