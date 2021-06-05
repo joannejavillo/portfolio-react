@@ -16,7 +16,7 @@ export default function NavBar() {
                         ">Home<span className="sr-only">(current)</span></a>
                     </li>
                     <li className="nav-item active">
-                        <a className="nav-link" href="assets/cv/joannejavillo.pdf">CV</a>
+                        <Link className="nav-link" to="./assets/cv/joannejavillo.pdf">CV</Link>
                     </li>
                     <li className="nav-item">
                         <Link className="nav-link hover" to="/portfolio">Portfolio</Link>
