@@ -1,5 +1,5 @@
 import React from "react";
-
+import {Link} from "react-router-dom";
 
 export default function NavBar() {
     return (
@@ -19,10 +19,10 @@ export default function NavBar() {
                         <a className="nav-link" href="assets/cv/joannejavillo.pdf">CV</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/portfolio">Portfolio</a>
+                        <Link className="nav-link hover" to="/portfolio">Portfolio</Link>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/contact">Contact</a>
+                        <Link className="nav-link hover" to="/contact">Contact</Link>
                     </li>
                 </ul>
             </div>
