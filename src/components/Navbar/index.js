@@ -1,5 +1,5 @@
 import React from "react";
-import {Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 
 export default function NavBar() {
     return (
@@ -13,7 +13,7 @@ export default function NavBar() {
                 <ul className="navbar-nav ml-auto mt-lg-0">
                     <li className="nav-item active">
                         <a className="nav-link" href="/
-                        ">Home<span className="sr-only"></span></a>
+                        ">Home<span className="sr-only">(current)</span></a>
                     </li>
                     <li className="nav-item active">
                         <a className="nav-link" href="assets/cv/joannejavillo.pdf">CV</a>
