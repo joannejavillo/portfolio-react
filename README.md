@@ -28,13 +28,13 @@ NPM, React, Github
  
 ---
 ## Screenshots
-![screenshot-of-mainpage](./assets/) "Main pager"
+![screenshot-of-mainpage](./public/assets/images/main1.png) "Main page"
 ---
 
-![screenshot-of-porfolio](./assets/.png) "Portfolio"
+![screenshot-of-porfolio](./public/assets/images/project.png) "Portfolio"
 ---
 
-![screenshot-of-contact](./assets/.png) "Contact" 
+![screenshot-of-contact](./public/assets/images/contact1.png) "Contact" 
 ---
 
 ---
