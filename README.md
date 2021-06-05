@@ -1,3 +1,55 @@
+## Portfolio- React
+
+![License](https://img.shields.io/badge/License-MIT-indigo)
+
+## Description 
+- This Portfolio was created using React
+ > this is based on my old portfolio and updated it using React
+---
+
+# Table of Contents 
+
+  - [Description](#Description)
+  - [Technologies](#Technologies)
+  - [Links](#Links)
+  - [Screenshots](#Screenshots)
+  - [Challenges](#Challenges)
+  - [License](#License)
+  - [Questions](#questions)
+---
+
+## Technologies
+NPM, React, Github
+
+---
+## Links
+ - Github: (https://github.com/joannejavillo/portfolio-react)
+ - Deployed link : (https://joannejavillo.github.io/)
+ 
+---
+## Screenshots
+![screenshot-of-mainpage](./assets/) "Main pager"
+---
+
+![screenshot-of-porfolio](./assets/.png) "Portfolio"
+---
+
+![screenshot-of-contact](./assets/.png) "Contact" 
+---
+
+---
+
+## Challenges
+ - Deploying in Github is quite challenging
+---
+## License
+- MIT
+---
+## Questions
+If you have any questions you can contact me at jo_anne.javillo@outlook.com or you can visit my gitHub page: (https://github.com/joannejavillo)
+
+----
+----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
