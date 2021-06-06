@@ -17,7 +17,7 @@ const Portfolio = () => {
                     </div>
                     <div className="col-md-12">
                         <a href="https://arcane-waters-44478.herokuapp.com/">
-                            <img src="./assets/images/DCODE.png" alt="dcode" className="img-thumbnail"/>
+                            <img src="./public/assets/images/DCODE.png" alt="dcode" className="img-thumbnail"/>
                             <p className="text-center"><strong>DCODE</strong></p>
                         </a>
                         <p className="text-centre">  <a href="https://github.com/bendemic90/group-project-2"> <strong>Github Repo </strong></a> </p>
@@ -28,7 +28,7 @@ const Portfolio = () => {
                     <div className="col-sm-6">
                         <a href="https://frozen-springs-04146.herokuapp.com/">
                             <img 
-                            src="./assets/images/budgetpage.png" 
+                            src="./public/assets/images/budgetpage.png" 
                             alt="budget-tracker" 
                             className="img-thumbnail"
                             />
@@ -38,21 +38,21 @@ const Portfolio = () => {
                     </div>
                     <div className="col-sm-6">
                         <a href="https://joannejavillo.github.io/employee-directory_react/">
-                            <img src="./assets/images/mainpage-asc.png" alt="employee-director-react" className="img-thumbnail"/>
+                            <img src="./public/assets/images/mainpage-asc.png" alt="employee-director-react" className="img-thumbnail"/>
                             <p className="text-center"><strong>Employee Directory</strong></p>
                         </a>
                         <p className="text-centre">  <a href="https://github.com/joannejavillo/employee-directory_react"> <strong>Github Repo </strong></a> </p>
                     </div>
                     <div className="col-sm-6">
                         <a href="https://joannejavillo.github.io/password-generator/">
-                            <img src="./assets/images/passwordgen.png" alt="password-generator" className="img-thumbnail"/>
+                            <img src="./public/assets/images/passwordgen.png" alt="password-generator" className="img-thumbnail"/>
                             <p className="text-center"><strong>Password Generator</strong></p>
                         </a>
                         <p className="text-centre">  <a href="https://github.com/joannejavillo/password-generator"> <strong>Github Repo </strong></a> </p>
                     </div>
                     <div className="col-sm-6">
                         <a href="https://joannejavillo.github.io/javascript-the_timed_quiz/">
-                            <img src="./assets/images/JS-TheTimedQuiz.png" alt="js-timed-quiz" className="img-thumbnail"/>
+                            <img src="./public/assets/images/JS-TheTimedQuiz.png" alt="js-timed-quiz" className="img-thumbnail"/>
                             <p className="text-center"><strong>JS:The Timed Quiz</strong></p>
                         </a>
                         <p className="text-centre">  <a href="https://github.com/joannejavillo/javascript-the_timed_quiz"> <strong>Github Repo </strong></a> </p>
