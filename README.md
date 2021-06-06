@@ -24,7 +24,7 @@ NPM, React, Github
 ---
 ## Links
  - Github: (https://github.com/joannejavillo/portfolio-react)
- - Deployed link : (https://joannejavillo.github.io/)
+ - Deployed link : (https://joannejavillo.github.io/portfolio-react/)
  
 ---
 ## Screenshots
@@ -34,7 +34,7 @@ NPM, React, Github
 ![screenshot-of-porfolio](./public/assets/images/project.png) "Portfolio"
 ---
 
-![screenshot-of-contact](./public/assets/contact1.png) "Contact" 
+![screenshot-of-contact](./public/assets/images/contact1.png) "Contact" 
 ---
 
 ---
